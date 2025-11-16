@@ -1,0 +1,51 @@
+representative,doctor,division,date,call_type,outcome,product,location
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-01,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Robert Smith,Oncology,2024-02-01,Virtual,Positive,OncoCare Plus,San Francisco
+Sarah Johnson,Dr. James Wilson,Cardiology,2024-02-02,Phone,Follow-up needed,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Maria Garcia,Oncology,2024-02-02,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Lisa Anderson,Neurology,2024-02-03,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. John Martinez,Gastroenterology,2024-02-03,In-person,Positive,GastroEase,Portland
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-05,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Robert Smith,Oncology,2024-02-05,Virtual,Neutral,OncoCare Plus,San Francisco
+David Brown,Dr. Thomas Lee,Neurology,2024-02-05,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Jennifer White,Orthopedics,2024-02-06,In-person,Positive,OrthoPro,Portland
+Sarah Johnson,Dr. Christopher Brown,Cardiology,2024-02-06,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Maria Garcia,Oncology,2024-02-07,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Jessica Taylor,Neurology,2024-02-07,Phone,Follow-up needed,NeuroFix,Seattle
+Emma Davis,Dr. Daniel Harris,Gastroenterology,2024-02-08,In-person,Positive,GastroEase,Portland
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-08,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Linda Clark,Oncology,2024-02-09,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Lisa Anderson,Neurology,2024-02-09,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Kevin Rodriguez,Orthopedics,2024-02-10,In-person,Positive,OrthoPro,Portland
+Sarah Johnson,Dr. Steven Walker,Cardiology,2024-02-12,In-person,Neutral,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Nancy Hall,Oncology,2024-02-12,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Thomas Lee,Neurology,2024-02-12,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Sandra King,Gastroenterology,2024-02-13,In-person,Positive,GastroEase,Portland
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-13,Phone,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Robert Smith,Oncology,2024-02-14,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Patricia Young,Neurology,2024-02-14,In-person,Follow-up needed,NeuroFix,Seattle
+Emma Davis,Dr. Daniel Harris,Gastroenterology,2024-02-15,In-person,Positive,GastroEase,Portland
+Sarah Johnson,Dr. Mark Allen,Cardiology,2024-02-15,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Barbara Scott,Oncology,2024-02-16,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Lisa Anderson,Neurology,2024-02-16,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Jennifer White,Orthopedics,2024-02-17,In-person,Positive,OrthoPro,Portland
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-19,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Maria Garcia,Oncology,2024-02-19,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Thomas Lee,Neurology,2024-02-19,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Daniel Harris,Gastroenterology,2024-02-20,In-person,Neutral,GastroEase,Portland
+Sarah Johnson,Dr. Christopher Brown,Cardiology,2024-02-20,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Linda Clark,Oncology,2024-02-21,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Jessica Taylor,Neurology,2024-02-21,Phone,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Sandra King,Gastroenterology,2024-02-22,In-person,Positive,GastroEase,Portland
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-22,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Robert Smith,Oncology,2024-02-23,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Lisa Anderson,Neurology,2024-02-23,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Kevin Rodriguez,Orthopedics,2024-02-24,In-person,Positive,OrthoPro,Portland
+Sarah Johnson,Dr. Steven Walker,Cardiology,2024-02-26,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Nancy Hall,Oncology,2024-02-26,Virtual,Positive,OncoCare Plus,San Francisco
+David Brown,Dr. Thomas Lee,Neurology,2024-02-26,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Daniel Harris,Gastroenterology,2024-02-27,In-person,Positive,GastroEase,Portland
+Sarah Johnson,Dr. Emily Parker,Cardiology,2024-02-27,In-person,Positive,CardioMed Pro,Los Angeles
+Michael Chen,Dr. Barbara Scott,Oncology,2024-02-28,Virtual,Follow-up needed,OncoCare Plus,San Francisco
+David Brown,Dr. Patricia Young,Neurology,2024-02-28,In-person,Positive,NeuroFix,Seattle
+Emma Davis,Dr. Jennifer White,Orthopedics,2024-02-29,In-person,Positive,OrthoPro,Portland
