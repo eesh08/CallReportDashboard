@@ -1,4 +1,4 @@
-Tech Stack: Python, SQL, Excel (Pivot Tables + Pivot Charts)
+Tech Stack: Python, SQL, Excel 
 
 This project delivers a fully interactive Sales Force Effectiveness (SFE) dashboard built on top of a clean data pipeline.
 The data was cleaned and transformed using Python + SQL, loaded into Excel as a structured table, and consumed by multiple pivot tables feeding the final dashboard.
